@@ -25,12 +25,9 @@ Front-end Boilerplate is a basic structure for every project integrated with Bow
 
 ## Browser support
 
-* Chrome *(latest 2)*
-* Edge *(latest 2)*
-* Firefox *(latest 2)*
+* Chrome
+* Edge
+* Firefox
 * Internet Explorer 8+
-* Opera *(latest 2)*
-* Safari *(latest 2)*
-
-*This doesn't mean that HTML5 Boilerplate cannot be used in older browsers, just that we'll ensure compatibility with the ones mentioned above.*
-
+* Opera
+* Safari
