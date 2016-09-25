@@ -1,0 +1,21 @@
+{
+  "name": "front-end-boilerplate",
+  "authors": [
+    "trungk18@gmail.com"
+  ],
+  "description": "A professional front-end template for building fast, robust, and adaptable sites",
+  "main": "index.html",
+  "keywords": [
+    "front-end-boilerplate"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/trungk18/front-end-boilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
