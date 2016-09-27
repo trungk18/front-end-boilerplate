@@ -16,12 +16,12 @@ Front-end Boilerplate is a basic structure for every project integrated with Bow
 * Includes:
   * [Bower](https://bower.io/) for front-end package manager.
   * [NPM](https://npmjs.com/) for development package manager.
-	* [Gulp](http://gulpjs.com/) for automate and enhance the development flow with pre-defined some neccessary tasks
-		* Compile SASS to CSS (`gulp sass`)
-		* Live-reloading with Browser Sync (`gulp watch`)
-		* Optimizing CSS and JavaScript files (`gulp useref`)
-		* Optimizing Images (`gulp images`)
-		* Cleaning up generated files automatically (`gulp dist:clear`)
+  * [Gulp](http://gulpjs.com/) for automate and enhance the development flow with pre-defined some neccessary tasks
+	* Compile SASS to CSS (`gulp sass`)
+	* Live-reloading with Browser Sync (`gulp watch`)
+	* Optimizing CSS and JavaScript files (`gulp useref`)
+	* Optimizing Images (`gulp images`)
+	* Cleaning up generated files automatically (`gulp dist:clear`)
 
 ## Browser support
 
